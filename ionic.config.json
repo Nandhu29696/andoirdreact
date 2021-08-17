@@ -1,0 +1,8 @@
+{
+  "name": "andoirdreact",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "d6f9ab2a"
+}
